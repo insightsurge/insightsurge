@@ -2,7 +2,7 @@
 - 👋 Hi, I’m Harsh Verma (@insightsurge)
 - 👀 Since the beginning of my career, I've fallen in love with Analytics, R and R-Shiny. R ecosystem is not just part of my professional life but also my personal life. I use it every now and then to make my life easier.
 - 🌱 I’m currently expanding my horizon by learning JS and integrating those concepts in my shiny apps. Other than that, I'm exploring new packages like rhino, echarts4r, etc.
-- 💞️ I’m looking to collaborate on products which makes life on earth better. My primary contribution is in Data4Good initiative @Appsilon.
+- 💞️ I’m looking to collaborate on unique ideas to make R ecosystem better. My primary contribution is in various life science projects at Appsilon.
 - 📫 You can reach me on [LinkedIn](www.linkedin.com/in/harshvermavsh) or can directly [email](analyticswithharsh@gmail.com) me.
 
 # 💻 Tech Stack:
